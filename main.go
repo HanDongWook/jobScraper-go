@@ -1,7 +1,7 @@
 package main
 
 import (
-	scrapper "learngo/scrapper.go"
+	scrapper "learngo/scraper.go"
 	"os"
 	"strings"
 

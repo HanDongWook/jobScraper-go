@@ -1,4 +1,4 @@
-package scrappergo
+package scrapper
 
 import (
 	"encoding/csv"
